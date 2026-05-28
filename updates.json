@@ -17,5 +17,10 @@
         "description": "added team system"
 
 
-   }
+   },
+   {
+        "version": "Version 0.4",
+        "date": "28 May 2026",
+        "description": "Made Game playable on android."
+    }
 ]
